@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Dex">
+	<meta name="date" content="2017-05-02T22:57:35-0400">
+	<meta name="keywords" content="Dexserve; Computer; Service; Repair;">
+	<meta name="description" content="WLogatto Resume and professional experience">
+	<title>Dexserve 2020</title>
+	<link rel="stylesheet" href="styles.css">
+	<script defer src="scripts.js"></script>
+</head>
+<body>
+	<div class="container">
+		<a href="https://www.dexserve.online">
+			<img src="/img/Dex_Logo_Lime.png" alt="Dex Logo" class="logo"/>
+		</a>
+			<div class="link-container">
+		<a href="https://www.dexserve.online/video_landing.html">
+			<img src="/img/Dex_videos.png" alt="Link" class="link-image"/>
+		</a>
+		<a href="https://www.dexserve.online/resume_page.html">
+			<img src="/img/Dex_resume.png" alt="Link" class="link-image"/>
+		</a>
+	</div>
+
+	
+	<!-- <a href="https://www.dexserve.online/test.html">
+		<img src="/img/Dex_dev.png" alt="Link" class="link-image"/>
+	</a> -->
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+sudo cp video_landing.html /var/www/dexserve/html/video_landing.html
+
+sudo cp GreyDay1.mp4 /var/www/dexserve/html/videos/GreyDay1.mp4
+
+sudo cp mike_surf_0.mp4 /var/www/dexserve/html/videos/mike_surf_0.mp4
+
+sudo cp mike_surf_1.mp4 /var/www/dexserve/html/videos/mike_surf_1.mp4
+
+sudo cp mike_surf_2.mp4 /var/www/dexserve/html/videos/mike_surf_2.mp4
